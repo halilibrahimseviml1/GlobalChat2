@@ -4,7 +4,7 @@ local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local localPlayer = Players.LocalPlayer
 
-local API_URL = "https://roblox-global-chat-wrln.onrender.com"
+local API_URL = "https://roblox-global-chat-3fq7.onrender.com/"
 local http_request = (syn and syn.request) or (http and http.request) or request or http_request
 
 local moderators = {
